@@ -1,0 +1,28 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Scraping scripts for Instragram Project !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinsJ/instagramProjection.git"
+  },
+  "keywords": [
+    "scraping",
+    "instagram"
+  ],
+  "author": "Vincent DEBANDE & Clément LAJOUX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinsJ/instagramProjection/issues"
+  },
+  "homepage": "https://github.com/vinsJ/instagramProjection#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "nodemon": "^2.0.7"
+  }
+}
