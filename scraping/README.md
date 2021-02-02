@@ -6,7 +6,7 @@ Now, we'll scrap the data we need with Node.js !
 
 **Why Node.Js ?** 
 
-Simply because we want to explore different languages. We already have some experience with Selenium and BS4, let's use Axios and Cheerios, it'll be fun !
+Simply because we want to explore different languages. We already have some experience with Selenium and BS4, let's use Axios and Cheerio, it'll be fun !
 
 ## Information we want to get 
 
